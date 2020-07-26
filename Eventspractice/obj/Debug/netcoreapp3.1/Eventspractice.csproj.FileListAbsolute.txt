@@ -1,0 +1,13 @@
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\bin\Debug\netcoreapp3.1\Eventspractice.exe
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\bin\Debug\netcoreapp3.1\Eventspractice.deps.json
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\bin\Debug\netcoreapp3.1\Eventspractice.runtimeconfig.json
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\bin\Debug\netcoreapp3.1\Eventspractice.runtimeconfig.dev.json
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\bin\Debug\netcoreapp3.1\Eventspractice.dll
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\bin\Debug\netcoreapp3.1\Eventspractice.pdb
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\obj\Debug\netcoreapp3.1\Eventspractice.csprojAssemblyReference.cache
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\obj\Debug\netcoreapp3.1\Eventspractice.csproj.CoreCompileInputs.cache
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\obj\Debug\netcoreapp3.1\Eventspractice.AssemblyInfoInputs.cache
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\obj\Debug\netcoreapp3.1\Eventspractice.AssemblyInfo.cs
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\obj\Debug\netcoreapp3.1\Eventspractice.dll
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\obj\Debug\netcoreapp3.1\Eventspractice.pdb
+F:\DIGIPEN\Other stuff\C#\C# Events\Eventspractice\obj\Debug\netcoreapp3.1\Eventspractice.genruntimeconfig.cache
